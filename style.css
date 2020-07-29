@@ -1,3 +1,7 @@
 p strong {
     color: cyan;
 }
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
